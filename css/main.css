@@ -17,7 +17,7 @@ section { display: flex; }
 .center { justify-content: center; }
 .space-between { justify-content: space-between; }
 .btn {
-    cursor: pointger;
+    cursor: pointer;
     border: 0;
     padding: 6px 12px;
     border-radius: 3px;
